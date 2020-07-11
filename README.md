@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+My name is Temitope and here's a little about me.
 
 - 🔭 I’m currently building Code Clan Nigeria, a community whose goal is to turn 500+ people into developers every 3 months.
 - 🌱 I’m currently learning go
