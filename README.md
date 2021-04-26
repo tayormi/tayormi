@@ -10,3 +10,7 @@ My name is Temitope and here's a little about me.
 - ⚡ Fun fact: I love to be indoors.
 
 ![Tayormi's github stats](https://github-readme-stats.vercel.app/api?username=tayormi&show_icons=true&hide_border=true)
+
+## My recent YouTube videos
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
