@@ -16,4 +16,6 @@ My name is Temitope and here's a little about me.
 - [Setting Up Flutter on Apple MacBook Pro M1 in 4K | Full Working | Run on Android and iOS Emulator](https://www.youtube.com/watch?v=cUInWMhEtyw)
 - [Ultimate Guide To Riverpod 2021 - Flutter Tutorial](https://www.youtube.com/watch?v=wpGmH3z3lmI)
 - [Build a Shazam Clone in Flutter using ACRCloud and Riverpod](https://www.youtube.com/watch?v=u2CsZnHMhmY)
+- [Building a Card Matcher Game in Flutter using Riverpod and Hooks in 1 Hour](https://www.youtube.com/watch?v=zJ9y6ubMuSY)
+- [Create a Netflix Type Video Pop-out Overlay in Flutter](https://www.youtube.com/watch?v=_lX_A08K4OA)
 <!-- BLOG-POST-LIST:END -->
