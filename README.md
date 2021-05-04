@@ -9,7 +9,7 @@ My name is Temitope and here's a little about me.
 - 📫 How to reach me: mrtayormi@outlook.com
 - ⚡ Fun fact: I love to be indoors.
 
-![Tayormi's github stats](https://github-readme-stats.vercel.app/api?username=tayormi&show_icons=true&hide_border=true)
+![Tayormi's github stats](https://github-readme-stats.vercel.app/api?username=tayormi&show_icons=true&hide_border=true&theme=dark)
 
 ## My recent YouTube videos
 <!-- BLOG-POST-LIST:START -->
