@@ -13,9 +13,9 @@ My name is Temitope and here's a little about me.
 
 ## My recent YouTube videos
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Riverpod, StateNotifier and Freezed   Build an Anime Locator App](https://www.youtube.com/watch?v=a7je_Eui3Oo)
 - [Flutter Tutorial for Beginners - How to Use Fonts and Colors In Your Project](https://www.youtube.com/watch?v=EK6drFGvIjw)
 - [Flutter Basic Widgets - Container, Column, Row, Text, etc](https://www.youtube.com/watch?v=XmkfesxfSXc)
 - [Getting Started with Flutter](https://www.youtube.com/watch?v=iGCsVisY6g4)
 - [Setting Up Flutter on Apple MacBook Pro M1 in 4K | Full Working | Run on Android and iOS Emulator](https://www.youtube.com/watch?v=cUInWMhEtyw)
-- [Ultimate Guide To Riverpod 2021 - Flutter Tutorial](https://www.youtube.com/watch?v=wpGmH3z3lmI)
 <!-- BLOG-POST-LIST:END -->
