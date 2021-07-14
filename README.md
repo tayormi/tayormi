@@ -13,9 +13,9 @@ My name is Temitope and here's a little about me.
 
 ## My recent YouTube videos
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Buttons in your Flutter Projects - Flutter for Beginners](https://www.youtube.com/watch?v=oQi7ctwdi9I)
 - [Build Apple Music UI app for macOS in Flutter](https://www.youtube.com/watch?v=Eu1r5y1rIL4)
 - [How To Use Assets and Images in Your Flutter Project - Flutter for Beginners](https://www.youtube.com/watch?v=AlFs30fEowQ)
 - [How to Use Riverpod, StateNotifier and Freezed in Flutter 2021 - Build an Anime Locator App](https://www.youtube.com/watch?v=a7je_Eui3Oo)
 - [Flutter Tutorial for Beginners - How to Use Fonts and Colors In Your Project](https://www.youtube.com/watch?v=EK6drFGvIjw)
-- [Flutter Basic Widgets - Container, Column, Row, Text, etc](https://www.youtube.com/watch?v=XmkfesxfSXc)
 <!-- BLOG-POST-LIST:END -->
