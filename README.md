@@ -34,9 +34,9 @@ My name is Temitope and here's a little about me.
 
 ## My recent YouTube videos
 <!-- BLOG-POST-LIST:START -->
+- [I just got a new MacBook Pro M2 to hasten up my development.](https://www.youtube.com/watch?v=4f614ene7Go)
 - [Relocated to Canada last month.](https://www.youtube.com/watch?v=Sch2nY6hNmU)
 - [I created a Disposable&lpar;spatial&rpar; Browser in Flutter](https://www.youtube.com/watch?v=jaJAzSrjGsw)
 - [Tech Vlog: Experience my journey to the Flutter Byte Conference 2022](https://www.youtube.com/watch?v=FxKaJpLVrQ0)
 - [Tech Vlog: Experience DevFest Ajah 2022 from my eyes](https://www.youtube.com/watch?v=72F_Jb_UYiQ)
-- [Recently unboxed the iPhone 14 Pro Max Gold.](https://www.youtube.com/watch?v=WlmflHNoWTo)
 <!-- BLOG-POST-LIST:END -->
