@@ -34,9 +34,9 @@ My name is Temitope and here's a little about me.
 
 ## My recent YouTube videos
 <!-- BLOG-POST-LIST:START -->
+- [Building a Podcast App While Relocating to Canada From Nigeria - What I Learned!](https://www.youtube.com/watch?v=5gj1GxReC-g)
 - [Finally setup my workspace. What do you think? Still gonna do some cable management. #technology](https://www.youtube.com/watch?v=GQ22lkQ38QY)
 - [Set up Flutter 3 on Apple MacBook M2 Pro 14&#39; | Full Working | Run on Android and iOS Emulator | 4K](https://www.youtube.com/watch?v=FxWyTmktgTo)
 - [I just got a new MacBook Pro M2 to hasten up my development.](https://www.youtube.com/watch?v=4f614ene7Go)
 - [Relocated to Canada last month.](https://www.youtube.com/watch?v=Sch2nY6hNmU)
-- [I created a Disposable&lpar;spatial&rpar; Browser in Flutter](https://www.youtube.com/watch?v=jaJAzSrjGsw)
 <!-- BLOG-POST-LIST:END -->
