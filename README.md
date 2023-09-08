@@ -34,9 +34,9 @@ My name is Temitope and here's a little about me.
 
 ## My recent YouTube videos
 <!-- BLOG-POST-LIST:START -->
+- [Riverpod Tutorial: Passing Arguments to your Provider](https://www.youtube.com/watch?v=v8TF9HOgn5E)
 - [What Flutter issue are you facing? #coding #flutter #softwareguide #flutterdev #tutorial #flutterio](https://www.youtube.com/watch?v=5tJXA1bbnkA)
 - [DevStream: Responsive UI Design in Flutter Web - Flutter Tutorial](https://www.youtube.com/watch?v=Bz_v0nXZn3M)
 - [DevStream: Building a Sales Tax Calculator App in Flutter](https://www.youtube.com/watch?v=ILHqBzAa-1g)
 - [#coding #podcastapp #fetchapi #software #tutorial #review #podcast #technology #android](https://www.youtube.com/watch?v=y2sqZgyURiQ)
-- [Riverpod Tutorial: Fetch API Data using Future Provider](https://www.youtube.com/watch?v=Ls767f4bam8)
 <!-- BLOG-POST-LIST:END -->
