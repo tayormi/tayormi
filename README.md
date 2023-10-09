@@ -34,9 +34,9 @@ My name is Temitope and here's a little about me.
 
 ## My recent YouTube videos
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Development Course - Learn Flutter By Building - Part 1](https://www.youtube.com/watch?v=fSx3OT2n4KA)
 - [[FULL FLUTTER COURSE] Dart Programming | Records and Patterns](https://www.youtube.com/watch?v=KdCoVfcaaVI)
 - [[FULL FLUTTER COURSE] Dart Programming | Functions in Dart](https://www.youtube.com/watch?v=SNwLQjxbbOY)
 - [Riverpod Tutorial: Performing Side Effects in Riverpod](https://www.youtube.com/watch?v=HHi9vJjlqvk)
 - [Riverpod Tutorial: Passing Arguments to your Provider](https://www.youtube.com/watch?v=v8TF9HOgn5E)
-- [What Flutter issue are you facing? #coding #flutter #softwareguide #flutterdev #tutorial #flutterio](https://www.youtube.com/watch?v=5tJXA1bbnkA)
 <!-- BLOG-POST-LIST:END -->
