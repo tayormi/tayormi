@@ -34,9 +34,9 @@ My name is Temitope and here's a little about me.
 
 ## My recent YouTube videos
 <!-- BLOG-POST-LIST:START -->
+- [Build PDF.ai Clone with Flutter, Pinecone, Langchain and ChatGPT - Full Flutter Course](https://www.youtube.com/watch?v=y2va_4m9FLQ)
 - [Flutter Development Course - Learn Flutter By Building - Part 2](https://www.youtube.com/watch?v=UE8HcpiMomw)
 - [Flutter Development Course - Learn Flutter By Building - Part 1](https://www.youtube.com/watch?v=fSx3OT2n4KA)
 - [[FULL FLUTTER COURSE] Dart Programming For Flutter | Records and Patterns](https://www.youtube.com/watch?v=KdCoVfcaaVI)
 - [[FULL FLUTTER COURSE] Dart Programming For Flutter | Functions in Dart](https://www.youtube.com/watch?v=SNwLQjxbbOY)
-- [Riverpod Tutorial: Performing Side Effects in Riverpod](https://www.youtube.com/watch?v=HHi9vJjlqvk)
 <!-- BLOG-POST-LIST:END -->
