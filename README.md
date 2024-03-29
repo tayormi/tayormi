@@ -34,9 +34,9 @@ My name is Temitope and here's a little about me.
 
 ## My recent YouTube videos
 <!-- BLOG-POST-LIST:START -->
+- [Building a Fullstack AI Saas Kit in Flutter/Dart](https://www.youtube.com/watch?v=IZuyDiuRm2k)
 - [Let Github Copilot help you write tests in Flutter](https://www.youtube.com/watch?v=DEwoKSpKHvs)
 - [Fullstack SaaS AI Kit in Flutter](https://www.youtube.com/watch?v=fxFtirW2EAQ)
 - [First Look - Manage States in your Flutter App with Signals](https://www.youtube.com/watch?v=uKjq65vMPXk)
 - [Build PDF.ai Clone with Flutter, Pinecone, Langchain and ChatGPT - Full Flutter Course](https://www.youtube.com/watch?v=y2va_4m9FLQ)
-- [Flutter Development Course - Learn Flutter By Building - Part 2](https://www.youtube.com/watch?v=UE8HcpiMomw)
 <!-- BLOG-POST-LIST:END -->
