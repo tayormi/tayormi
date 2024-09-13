@@ -1,5 +1,3 @@
-
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/tayormi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,6 +14,16 @@
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+<!-- Udemy Course Advert -->
+<div align="center" style="margin: 20px;">
+  <a href="https://www.udemy.com/course/dart-essentials-the-complete-novice-to-beginner-course/?referralCode=YOUR_CODE_HERE">
+    <img src="https://img-c.udemycdn.com/course/200_H/6104785_8bc7_4.jpg" alt="Dart Essentials Course" style="border-radius: 10px; width: 240px;"/>
+  </a>
+  <h2>🚀 Take your Dart skills to the next level with my course on Udemy! 🚀</h2>
+  <p>Master the fundamentals of Dart programming with hands-on projects and challenges. Perfect for beginners.</p>
+  <a href="[https://www.udemy.com/course/dart-essentials-from-novice-to-proficient-developer](https://www.udemy.com/course/dart-essentials-from-novice-to-proficient-developer/)" style="background-color: #f07c00; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Enroll Now</a>
+</div>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tayormi&theme=dark&hide_border=true)](https://git.io/streak-stats)
