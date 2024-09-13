@@ -17,7 +17,7 @@
 
 <!-- Udemy Course Advert -->
 <div align="center" style="margin: 20px;">
-  <a href="https://www.udemy.com/course/dart-essentials-the-complete-novice-to-beginner-course/?referralCode=YOUR_CODE_HERE">
+  <a href="https://www.udemy.com/course/dart-essentials-from-novice-to-proficient-developer">
     <img src="https://img-c.udemycdn.com/course/200_H/6104785_8bc7_4.jpg" alt="Dart Essentials Course" style="border-radius: 10px; width: 240px;"/>
   </a>
   <h2>🚀 Take your Dart skills to the next level with my course on Udemy! 🚀</h2>
@@ -33,7 +33,7 @@
 ### :fire: About Me :
 My name is Temitope and here's a little about me.
 
-- 🔭 I’m currently building Code Clan Nigeria, a community whose goal is to turn 500+ people into developers every 3 months. www.codeclannigeria.dev
+- 🔭 I’m currently building Tech Clan Canada. www.techclancanada.ca
 - 🌱 I’m currently building a Dart Frog Enterprise API Boilerplate
 - 👯 I’m looking to collaborate on with community building and developer relations.
 - 💬 Ask me about Flutter
