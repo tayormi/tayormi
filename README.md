@@ -22,6 +22,7 @@
   </a>
   <h2>🚀 Take your Dart skills to the next level with my course on Udemy! 🚀</h2>
   <p>Master the fundamentals of Dart programming with hands-on projects and challenges. Perfect for beginners.</p>
+  [https://www.udemy.com/course/dart-essentials-from-novice-to-proficient-developer/](https://www.udemy.com/course/dart-essentials-from-novice-to-proficient-developer/)
   <a href="[https://www.udemy.com/course/dart-essentials-from-novice-to-proficient-developer](https://www.udemy.com/course/dart-essentials-from-novice-to-proficient-developer/)" style="background-color: #f07c00; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Enroll Now</a>
 </div>
 
