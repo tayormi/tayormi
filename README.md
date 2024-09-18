@@ -43,9 +43,9 @@ My name is Temitope and here's a little about me.
 
 ## My recent YouTube videos
 <!-- BLOG-POST-LIST:START -->
+- [Dart Course - From Beginner to a Proficient Developer](https://www.youtube.com/watch?v=adscr0YK-wQ)
 - [FREE Jaspr Template for your Indie App.](https://www.youtube.com/watch?v=FLCYQNt-B9E)
 - [Grab my FREE Jaspr Template. #flutter #dart](https://www.youtube.com/watch?v=2PpFaHePU-w)
 - [My new personal homepage](https://www.youtube.com/watch?v=iawzhfaJJYo)
 - [Building a Fullstack AI Saas Kit in Flutter/Dart](https://www.youtube.com/watch?v=IZuyDiuRm2k)
-- [Let Github Copilot help you write tests in Flutter](https://www.youtube.com/watch?v=DEwoKSpKHvs)
 <!-- BLOG-POST-LIST:END -->
