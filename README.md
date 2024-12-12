@@ -43,9 +43,9 @@ My name is Temitope and here's a little about me.
 
 ## My recent YouTube videos
 <!-- BLOG-POST-LIST:START -->
+- [BUILD a Pomodoro App with Flutter and SQLite | Full Course](https://www.youtube.com/watch?v=I2PSCjAR1RY)
 - [The EASIEST Way to Create a Habit Tracker in Flutter with Riverpod and SQLite | Full Course](https://www.youtube.com/watch?v=t3CF4i902I8)
 - [Upcoming Habit Tracking Tutorial in Flutter #smartphone #flutter #appdeveloper](https://www.youtube.com/watch?v=9EK1u1S1wac)
 - [The Complete Flutter Developer Roadmap in 2024 | Step-by-Step Guide](https://www.youtube.com/watch?v=S8ov-d2IjqI)
 - [Dart Course - From Beginner to a Proficient Developer](https://www.youtube.com/watch?v=adscr0YK-wQ)
-- [FREE Jaspr Template for your Indie App.](https://www.youtube.com/watch?v=FLCYQNt-B9E)
 <!-- BLOG-POST-LIST:END -->
