@@ -43,9 +43,9 @@ My name is Temitope and here's a little about me.
 
 ## My recent YouTube videos
 <!-- BLOG-POST-LIST:START -->
+- [Supabase Authentication Made EASY for Flutter App Developers](https://www.youtube.com/watch?v=Regyx9wME-k)
 - [Introduction to Supabase For Flutter](https://www.youtube.com/watch?v=Af68e4XDIAA)
 - [I Built a Flutter App with AI as My Sidekick and Here&#39;s What Happened!](https://www.youtube.com/watch?v=Qzmt8hh5TYM)
 - [BUILD a Pomodoro App with Flutter and SQLite | Full Course](https://www.youtube.com/watch?v=I2PSCjAR1RY)
 - [Flutter, Riverpod &amp; SQLite: Habit Tracker from Scratch | Full Course](https://www.youtube.com/watch?v=t3CF4i902I8)
-- [Upcoming Habit Tracking Tutorial in Flutter #smartphone #flutter #appdeveloper](https://www.youtube.com/watch?v=9EK1u1S1wac)
 <!-- BLOG-POST-LIST:END -->
