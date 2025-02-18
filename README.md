@@ -43,9 +43,9 @@ My name is Temitope and here's a little about me.
 
 ## My recent YouTube videos
 <!-- BLOG-POST-LIST:START -->
+- [WriteSync v1.0.0 is out. Here is all the features.](https://www.youtube.com/watch?v=k_msJkdtQpI)
 - [Build Your Dream Blog in 5 Minutes with WriteSync!](https://www.youtube.com/watch?v=vrY7Zfo75n0)
 - [Add Supabase Authentication to your Flutter App #flutter #coding #supabase](https://www.youtube.com/watch?v=2eZlJCzbe6E)
 - [Supabase Authentication Made EASY for Flutter App Developers | Riverpod x GoRouter](https://www.youtube.com/watch?v=Regyx9wME-k)
 - [Introduction to Supabase For Flutter](https://www.youtube.com/watch?v=Af68e4XDIAA)
-- [I Built a Flutter App with AI as My Sidekick and Here&#39;s What Happened!](https://www.youtube.com/watch?v=Qzmt8hh5TYM)
 <!-- BLOG-POST-LIST:END -->
