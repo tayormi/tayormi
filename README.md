@@ -43,9 +43,9 @@ My name is Temitope and here's a little about me.
 
 ## My recent YouTube videos
 <!-- BLOG-POST-LIST:START -->
+- [Grok Bot Templates on GrokMarket.io](https://www.youtube.com/watch?v=lw1omLJWoyM)
 - [I Built a Coding Bootcamp Portal With Flutter and Supabase!](https://www.youtube.com/watch?v=T5RoTyiuuGM)
 - [WriteSync v1.0.0 is out. Here is all the features.](https://www.youtube.com/watch?v=k_msJkdtQpI)
 - [Build Your Dream Blog in 5 Minutes with WriteSync!](https://www.youtube.com/watch?v=vrY7Zfo75n0)
 - [Add Supabase Authentication to your Flutter App #flutter #coding #supabase](https://www.youtube.com/shorts/2eZlJCzbe6E)
-- [Supabase Authentication Made EASY for Flutter App Developers | Riverpod x GoRouter](https://www.youtube.com/watch?v=Regyx9wME-k)
 <!-- BLOG-POST-LIST:END -->
